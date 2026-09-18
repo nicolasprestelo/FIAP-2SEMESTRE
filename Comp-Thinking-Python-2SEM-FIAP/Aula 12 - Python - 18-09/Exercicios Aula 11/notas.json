@@ -1,0 +1,492 @@
+{
+    "2101254": {
+        "nome": "Benício Pires",
+        "média": 7.48,
+        "notas": [
+            3.6,
+            10.0,
+            8.5,
+            7.8
+        ]
+    },
+    "2101624": {
+        "nome": "Bruna Goncalves",
+        "média": 7.25,
+        "notas": [
+            9.5,
+            8.0,
+            6.0,
+            5.5
+        ]
+    },
+    "2101533": {
+        "nome": "Danilo Jesus",
+        "média": 8.0,
+        "notas": [
+            7.8,
+            8.7,
+            6.5,
+            9.0
+        ]
+    },
+    "2101969": {
+        "nome": "Ana Carolina Silva",
+        "média": 8.35,
+        "notas": [
+            8.1,
+            7.3,
+            9.2,
+            8.8
+        ]
+    },
+    "2101779": {
+        "nome": "Lavinia Duarte",
+        "média": 8.68,
+        "notas": [
+            9.0,
+            8.0,
+            8.5,
+            9.2
+        ]
+    },
+    "2102641": {
+        "nome": "Paulo da Conceicao",
+        "média": 8.23,
+        "notas": [
+            7.2,
+            9.1,
+            7.9,
+            8.7
+        ]
+    },
+    "2101346": {
+        "nome": "Marcos Vinícius Sales",
+        "média": 8.3,
+        "notas": [
+            8.5,
+            7.0,
+            9.5,
+            8.2
+        ]
+    },
+    "2102630": {
+        "nome": "Maria Vitoria Jesus",
+        "média": 9.25,
+        "notas": [
+            9.8,
+            8.7,
+            9.0,
+            9.5
+        ]
+    },
+    "2102562": {
+        "nome": "Sarah Rodrigues",
+        "média": 7.42,
+        "notas": [
+            7.3,
+            6.9,
+            7.1,
+            8.4
+        ]
+    },
+    "2101199": {
+        "nome": "Vitor Hugo Farias",
+        "média": 7.55,
+        "notas": [
+            6.5,
+            8.2,
+            7.7,
+            7.8
+        ]
+    },
+    "2102356": {
+        "nome": "Mariana Alves",
+        "média": 8.75,
+        "notas": [
+            8.9,
+            7.4,
+            9.0,
+            9.7
+        ]
+    },
+    "2101780": {
+        "nome": "Carlos Oliveira",
+        "média": 7.85,
+        "notas": [
+            7.6,
+            8.0,
+            7.5,
+            8.3
+        ]
+    },
+    "2101985": {
+        "nome": "Eduardo Silva",
+        "média": 8.03,
+        "notas": [
+            7.2,
+            8.0,
+            8.8,
+            8.1
+        ]
+    },
+    "2102077": {
+        "nome": "Laura Fernandes",
+        "média": 8.53,
+        "notas": [
+            8.7,
+            7.9,
+            9.0,
+            8.5
+        ]
+    },
+    "2102241": {
+        "nome": "Isabel Santos",
+        "média": 9.12,
+        "notas": [
+            9.5,
+            8.0,
+            9.2,
+            9.8
+        ]
+    },
+    "2102721": {
+        "nome": "Rodrigo Barbosa",
+        "média": 8.65,
+        "notas": [
+            8.0,
+            9.3,
+            8.7,
+            8.6
+        ]
+    },
+    "2102563": {
+        "nome": "Vinicius Lima",
+        "média": 8.43,
+        "notas": [
+            8.6,
+            8.0,
+            8.3,
+            8.8
+        ]
+    },
+    "2101422": {
+        "nome": "Gabriela Oliveira",
+        "média": 8.25,
+        "notas": [
+            8.2,
+            7.5,
+            8.9,
+            8.4
+        ]
+    },
+    "2102810": {
+        "nome": "Lucas Mendes",
+        "média": 7.0,
+        "notas": [
+            6.9,
+            7.1,
+            6.8,
+            7.2
+        ]
+    },
+    "2102457": {
+        "nome": "Helena Ribeiro",
+        "média": 9.4,
+        "notas": [
+            9.1,
+            9.5,
+            9.7,
+            9.3
+        ]
+    },
+    "2101999": {
+        "nome": "Rafael Ferreira",
+        "média": 8.18,
+        "notas": [
+            8.3,
+            8.0,
+            7.9,
+            8.5
+        ]
+    },
+    "2102088": {
+        "nome": "Ana Beatriz Azevedo",
+        "média": 8.18,
+        "notas": [
+            7.8,
+            8.0,
+            8.2,
+            8.7
+        ]
+    },
+    "2101556": {
+        "nome": "Mateus Fernandes",
+        "média": 8.05,
+        "notas": [
+            8.1,
+            7.7,
+            8.0,
+            8.4
+        ]
+    },
+    "2102778": {
+        "nome": "Leticia Nunes",
+        "média": 8.95,
+        "notas": [
+            8.9,
+            8.7,
+            9.0,
+            9.2
+        ]
+    },
+    "2101320": {
+        "nome": "Julia Ribeiro",
+        "média": 7.92,
+        "notas": [
+            8.0,
+            7.9,
+            7.5,
+            8.3
+        ]
+    },
+    "2101699": {
+        "nome": "Marcos Carvalho",
+        "média": 7.7,
+        "notas": [
+            7.3,
+            8.0,
+            7.5,
+            8.0
+        ]
+    },
+    "2101833": {
+        "nome": "Sophia Rocha",
+        "média": 9.35,
+        "notas": [
+            9.2,
+            9.7,
+            9.5,
+            9.0
+        ]
+    },
+    "2102122": {
+        "nome": "Matheus Cardoso",
+        "média": 8.0,
+        "notas": [
+            7.8,
+            8.0,
+            7.7,
+            8.5
+        ]
+    },
+    "2101799": {
+        "nome": "Luiza Mendonca",
+        "média": 8.5,
+        "notas": [
+            8.5,
+            8.2,
+            8.9,
+            8.4
+        ]
+    },
+    "2101544": {
+        "nome": "Caua Oliveira",
+        "média": 8.05,
+        "notas": [
+            8.0,
+            7.5,
+            8.5,
+            8.2
+        ]
+    },
+    "2101345": {
+        "nome": "Vitória Souza",
+        "média": 9.18,
+        "notas": [
+            9.0,
+            9.5,
+            9.0,
+            9.2
+        ]
+    },
+    "2101477": {
+        "nome": "Yasmin Ribeiro",
+        "média": 8.15,
+        "notas": [
+            7.8,
+            8.0,
+            8.2,
+            8.6
+        ]
+    },
+    "2102221": {
+        "nome": "Joao Oliveira",
+        "média": 8.4,
+        "notas": [
+            8.6,
+            8.0,
+            8.7,
+            8.3
+        ]
+    },
+    "2102388": {
+        "nome": "Luana Azevedo",
+        "média": 7.97,
+        "notas": [
+            7.9,
+            8.0,
+            7.9,
+            8.1
+        ]
+    },
+    "2101900": {
+        "nome": "Renan Silva",
+        "média": 7.42,
+        "notas": [
+            7.1,
+            7.8,
+            7.5,
+            7.3
+        ]
+    },
+    "2101432": {
+        "nome": "Gustavo Carvalho",
+        "média": 7.85,
+        "notas": [
+            8.0,
+            7.5,
+            8.0,
+            7.9
+        ]
+    },
+    "2101622": {
+        "nome": "Nina Azevedo",
+        "média": 9.2,
+        "notas": [
+            9.0,
+            9.5,
+            9.1,
+            9.2
+        ]
+    },
+    "2101955": {
+        "nome": "Pedro Rocha",
+        "média": 7.88,
+        "notas": [
+            7.6,
+            7.8,
+            8.1,
+            8.0
+        ]
+    },
+    "2101777": {
+        "nome": "Mariana Costa",
+        "média": 8.32,
+        "notas": [
+            8.4,
+            8.1,
+            8.3,
+            8.5
+        ]
+    },
+    "2102255": {
+        "nome": "Felipe Oliveira",
+        "média": 8.97,
+        "notas": [
+            8.7,
+            9.0,
+            9.0,
+            9.2
+        ]
+    },
+    "2102341": {
+        "nome": "Eloa Pereira",
+        "média": 7.83,
+        "notas": [
+            7.5,
+            8.0,
+            7.8,
+            8.0
+        ]
+    },
+    "2101766": {
+        "nome": "Rodrigo Ribeiro",
+        "média": 8.25,
+        "notas": [
+            8.3,
+            8.1,
+            8.2,
+            8.4
+        ]
+    },
+    "2102890": {
+        "nome": "Livia Sousa",
+        "média": 8.9,
+        "notas": [
+            8.7,
+            9.0,
+            8.9,
+            9.0
+        ]
+    },
+    "2101677": {
+        "nome": "Guilherme Castro",
+        "média": 8.1,
+        "notas": [
+            8.2,
+            7.9,
+            8.0,
+            8.3
+        ]
+    },
+    "2102155": {
+        "nome": "Bianca Carvalho",
+        "média": 8.02,
+        "notas": [
+            8.0,
+            8.0,
+            7.9,
+            8.2
+        ]
+    },
+    "2102099": {
+        "nome": "Sofia Ferreira",
+        "média": 9.18,
+        "notas": [
+            9.0,
+            9.5,
+            9.2,
+            9.0
+        ]
+    },
+    "2101343": {
+        "nome": "Larissa Oliveira",
+        "média": 4.3,
+        "notas": [
+            4.5,
+            3.7,
+            4.1,
+            4.9
+        ]
+    },
+    "2101445": {
+        "nome": "Felipe Souza",
+        "média": 5.38,
+        "notas": [
+            5.2,
+            4.9,
+            5.8,
+            5.6
+        ]
+    },
+    "2101577": {
+        "nome": "Amanda Mendes",
+        "média": 4.38,
+        "notas": [
+            4.7,
+            4.5,
+            4.1,
+            4.2
+        ]
+    }
+}
